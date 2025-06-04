@@ -1,0 +1,25 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+.venv/
+env/
+venv/
+
+# Ignore IDE/editor settings
+.vscode/
+*.code-workspace
+
+# Ignore OS/system files
+.DS_Store
+Thumbs.db
+
+# Ignore output files
+output/*
+!output/.gitkeep  # allow keeping the folder itself
+
+# Ignore logs
+logs/*
+!logs/.gitkeep
+
