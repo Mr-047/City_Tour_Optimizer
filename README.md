@@ -109,4 +109,3 @@ This project is open-source under the MIT License.
 ## 👨‍💻 Author
 Developed by Mr-047
 
-A project built to explore real-world applications of Python, optimization algorithms, and geospatial data
